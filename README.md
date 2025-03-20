@@ -21,8 +21,8 @@ Este repositorio contiene un conjunto de notebooks de Google Colab especializado
   **Advertencia: Los resultados pueden variar dependiendo del cuaderno usado.** 
 
 ### Auto-Tagging de Datasets
-- `Dataset_Maker_By_WhiteZ.ipynb` [![Open in Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/gwhitez/Lora-Trainer-XL/blob/main/Waifu_Diffusion_V3_Dataser_Maker.ipynb) : Etiquetado con WDv2. Editor de etiquetas (agregar, eliminar etiquetas) Visualizador de etiquetas etc.
-- `Waifu_Diffusion_V3_Dataser_Maker.ipynb`  [![Open in Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/gwhitez/Lora-Trainer-XL/blob/main/Old_Fix_Lora_Trainer_XL.ipynb) : Etiquetado con WDv3 y Modelos Large. Editor de etiquetas (agregar, eliminar etiquetas) Visualizador de etiquetas etc.
+- `Dataset_Maker_By_WhiteZ.ipynb` [![Open in Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/gwhitez/Lora-Trainer-XL/blob/main/Waifu_Diffusion_V3_Dataser_Maker.ipynb) : Etiquetado con WDv2. Editor de etiquetas (agregar, eliminar etiquetas) Visualizador de etiquetas, crear captions usando el modelo BLIP de lenguaje natural.
+- `Waifu_Diffusion_V3_Dataser_Maker.ipynb`  [![Open in Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/gwhitez/Lora-Trainer-XL/blob/main/Old_Fix_Lora_Trainer_XL.ipynb) : Etiquetado con WDv3 y Modelos Large. Editor de etiquetas (agregar, eliminar etiquetas) Visualizador de etiquetas, modelos de etiquetado mejorados para contenido furry (Z3d) y danbooru (ML).
 
 
 ## 🛠 Requisitos
