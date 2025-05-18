@@ -21,7 +21,7 @@ Este repositorio contiene un conjunto de notebooks de Google Colab especializado
   **Advertencia: Los resultados pueden variar dependiendo del cuaderno usado.** 
 
 ### Auto-Tagging de Datasets
-- `Dataset_Maker_By_WhiteZ.ipynb` [![Open in Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/gwhitez/Lora-Trainer-XL/blob/main/Dataset_Maker_By_WhiteZ.ipynb) : Etiquetado con WDV3. Instalación rapida (1 minuto aproximadamente), Uso modelos large para mejor precisión, Editor de etiquetas (agregar, eliminar etiquetas) Visualizador de etiquetas, crear captions usando el modelo BLIP de lenguaje natural.
+- `Dataset_Maker_By_WhiteZ.ipynb` [![Open in Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/gwhitez/Lora-Trainer-XL/blob/main/Dataset_Maker_By_WhiteZ.ipynb) : Etiquetado con WDV3. Instalación rapida (1 minuto aproximadamente), Uso doble de modelos large para mejor precisión en el etiquetado, Editor de etiquetas (agregar, eliminar etiquetas) Visualizador de etiquetas, crear captions usando el modelo BLIP de lenguaje natural.
 - `Waifu_Diffusion_V3_Dataser_Maker.ipynb`  [![Open in Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/gwhitez/Lora-Trainer-XL/blob/main/Waifu_Diffusion_V3_Dataser_Maker.ipynb) : Etiquetado con WDv3 y Modelos Large. Editor de etiquetas (agregar, eliminar etiquetas) Visualizador de etiquetas, modelos de etiquetado mejorados para contenido furry (Z3d) y danbooru (ML).
 
 
