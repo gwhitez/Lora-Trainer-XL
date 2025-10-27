@@ -29,9 +29,10 @@ Este repositorio contiene un conjunto de notebooks de Google Colab especializado
   - ~Scrips de entrenamiento más antiguo (2023)~ Scrips de entrenamiento actualizados.
   - ¡Ahora soporta entrenamiento de lora Vpred!
   -  ⚡ Instalación rapida. ⚡
-  - requiere uso de modelo en formato Diffusers para entrenamiento en Colab gratuito. <p>
+  -  Optimizador Prodigy Funciona correctamente.
+  - ~requiere uso de modelo en formato Diffusers para entrenamiento en Colab gratuito.~ Entrenamiento con modelos `.safetensors o .ckpt` en colab gratuito. <p>
   
-  ## ⚠️ **Advertencia: Los resultados pueden variar dependiendo del cuaderno usado. ⚠️** 
+  # ⚠️ **Advertencia: Los resultados pueden variar dependiendo del cuaderno usado. ⚠️** 
 
 ### Auto-Tagging de Datasets
 `Dataset_Maker_By_WhiteZ.ipynb` [![Open in Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/gwhitez/Lora-Trainer-XL/blob/main/Dataset_Maker_By_WhiteZ.ipynb) :
